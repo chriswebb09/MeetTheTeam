@@ -25,6 +25,7 @@ xcuserdata/
 *.hmap
 *.ipa
 *.dSYM.zip
+*.json
 *.dSYM
 
 ## Playgrounds
